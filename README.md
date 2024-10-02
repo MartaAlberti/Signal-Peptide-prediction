@@ -1,2 +1,2 @@
 # Signal-Peptide-prediction
-Support Vector Machine method to predict the presence of a signal peptide in protein sequences
+Use of Support Vector Machine to predict the presence of a signal peptides in protein sequences
